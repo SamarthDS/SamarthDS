@@ -1,3 +1,5 @@
+![logo](https://github.com/SamarthDS/SamarthDS/blob/main/GitHub%20Banner.png)
+
 # 💫 About Me:
 I am a college student interested in working on the backend using Django/Flask.<br>Specializing in [Front-End/Python/MLE].<br>I am currently working on learning MLE and Backend.<br>Tech-Savvy.<br>
 
