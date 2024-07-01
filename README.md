@@ -28,5 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthds&show_icons=true&locale=en" alt="samarthds" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthds&" alt="samarthds" /></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
