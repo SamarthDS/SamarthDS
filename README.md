@@ -1,4 +1,4 @@
-![image](https://github.com/SamarthDS/SamarthDS/assets/66328782/df9716a1-0850-4b27-9c80-ee750d5ef643)![logo](https://github.com/SamarthDS/SamarthDS/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/SamarthDS/SamarthDS/blob/main/GitHub%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Samarth Sudhakar</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
