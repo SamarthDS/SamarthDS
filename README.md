@@ -112,7 +112,8 @@
 <br clear="both">
 
 <hr>
-
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SamarthDS" alt="SamarthDS" /></a></p>
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamarthDS/SamarthDS/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamarthDS/SamarthDS/output/github-snake.svg" />
