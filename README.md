@@ -113,4 +113,4 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/SamarthDS/SamarthDS/output/snake.svg" alt="Snake animation" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/SamarthDS/SamarthDS/output/github-snake.svg" />
